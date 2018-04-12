@@ -1,5 +1,5 @@
-# FROM nginx:1.13-alpine
-FROM nginx:1.13
+FROM nginx:1.13-alpine
+# FROM nginx:1.13
 
 ENV TZ=Asia/Shanghai
 
